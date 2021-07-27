@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nikhil BN</h1>
 <h2 align="center">A passionate Student and Software Developer</h2>
 
-<a href="https://nikhilbn.netlify.app" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/website?label=nikhilbn.netlify.app&style=flat&url=https%3A%2F%2Fnikhilbn.netlify.app" alt="My Website" /></a>
+<a href="https://nikhilbn.me" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/website?label=nikhilbn.me&url=https%3A%2F%2Fnikhilbn.me" alt="My Website" /></a>
 
 - 🏫&nbsp;I'm a final year undergrad studying Electrical Engg. at **IIT Dhanbad**
 - 🔥&nbsp;I love solving problems
 - 🥅&nbsp;2021 Goals: **Contribute more to Open Source, Work on Blockchain projects**
-- 👨‍💻&nbsp;All of my projects are available at my **[website](https://nikhilbn.netlify.app)**
+- 👨‍💻&nbsp;All of my projects are available at my **[website](https://nikhilbn.me)**
 - ⚡&nbsp;Fun fact **I play Tennis and love watching Football !**
 - 📫&nbsp;How to reach me **nikhilbnaradhya1.gem@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<!-- <a href="https://nikhilbn.netlify.app" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nikhilbn10" height="30" width="40" /></a> -->
+<!-- <a href="https://nikhilbn.me" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nikhilbn10" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/nikhil-bn-71b893186" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-bn-71b893186" height="30" width="40" /></a>
 &nbsp;<a href="https://www.youtube.com/channel/UCJZXUwCGmsuS3XDKPgtpPTg" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nikhil BN's channel" height="30" width="40" /></a>
 &nbsp;<a href="https://twitter.com/NIKHILBN10" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilbn10" height="30" width="40" /></a>
