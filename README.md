@@ -8,7 +8,7 @@
 - 🥅&nbsp;2021 Goals: **Contribute more to Open Source, Work on Blockchain projects**
 - 👨‍💻&nbsp;All of my projects are available at my **[website](https://nikhilbn.me)**
 - ⚡&nbsp;Fun fact **I play Tennis and love watching Football !**
-- 📫&nbsp;How to reach me **nikhilbnaradhya1.gem@gmail.com**
+- 📫&nbsp;How to reach me **nikhilbn365@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
