@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil BN</h1>
 <h2 align="center">A passionate Student and Software Developer</h2>
 
-<a href="https://nikhilbn.me" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/website?label=nikhilbn.me&url=https%3A%2F%2Fnikhilbn.me" alt="My Website" /></a>
+<a href="https://nikhilbn.me" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/website?label=nikhilbn.me&url=https%3A%2F%2Fnikhilbn.me" alt="My Portfolio" /></a>
 
 - 🏫&nbsp;I'm a final year undergrad studying Electrical Engg. at **IIT Dhanbad**
-- 🔥&nbsp;I love solving problems
+- 💻&nbsp;I'm a former **SWE Intern Summer '21 @Innovaccer** and **MLH Fellow Fall 2021**(Prep)
+- 🔥&nbsp;I love solving problems, and building stuff !
+- 👨‍💻&nbsp;All of my projects are available at my **[Portfolio](https://nikhilbn.me)**
 - 🥅&nbsp;2021 Goals: **Contribute more to Open Source, Work on Blockchain projects**
-- 👨‍💻&nbsp;All of my projects are available at my **[website](https://nikhilbn.me)**
 - ⚡&nbsp;Fun fact **I play Tennis and love watching Football !**
 - 📫&nbsp;How to reach me **nikhilbn365@gmail.com**
 
