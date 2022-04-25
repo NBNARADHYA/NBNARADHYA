@@ -4,7 +4,6 @@
 <a href="https://nikhilbn.me" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/website?label=nikhilbn.me&url=https%3A%2F%2Fnikhilbn.me" alt="My Portfolio" /></a>
 
 - 🏫&nbsp;I'm a final year undergrad studying Electrical Engg. at **IIT Dhanbad**
-- 💻&nbsp;I'm currently a **Software Engineering** fellow at **Major League Hacking** working on Blockchain with **Solana Labs**
 - 🔥&nbsp;I love solving problems, and building stuff!
 - 👨‍💻&nbsp;All of my projects are available at my **[Portfolio](https://nikhilbn.me)**
 - 🥅&nbsp;2022 Goals: **Contribute more to Open Source, Work on Blockchain projects**
